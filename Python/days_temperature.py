@@ -3,7 +3,7 @@
 # Welcome Message
 separator = "============================"
 print(separator)
-print("Hello! Welcome to Days Temperature Program!")
+print("Hello! Welcome to Equinox Days Temperature Program!")
 print(separator, "\n")
 
 # Creating the List of Temperatures
