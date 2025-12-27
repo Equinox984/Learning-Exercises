@@ -4,7 +4,7 @@ while True:
         y = float(input("What's y? "))
 
     except ValueError:
-        print("Write a number stupid!")
+        print("Write a number dude!")
 
     else:
         if x != y:
