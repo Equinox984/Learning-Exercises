@@ -1,0 +1,42 @@
+{
+  "first_division": [
+    {
+      "home": "Olimpia",
+      "away": "Motagua",
+      "stadium": "Chelato Uclés",
+      "date": "March 20, 4:00 PM"
+    },
+    {
+      "home": "Real España",
+      "away": "Maratón",
+      "stadium": "Morazán",
+      "date": "March 21, 7:00 PM"
+    },
+    {
+      "home": "Olancho F.C.",
+      "away": "Victoria",
+      "stadium": "Juan Ramón Brevé",
+      "date": "March 22, 3:00 PM"
+    }
+  ],
+  "second_division": [
+    {
+      "home": "Boca Juniors",
+      "away": "Vida",
+      "stadium": "Morazán",
+      "date": "March 23, 7:00 PM"
+    },
+    {
+      "home": "Real Sociedad",
+      "away": "Roma F.C.",
+      "stadium": "Juan Ramón Brevé",
+      "date": "March 24, 3:00 PM"
+    },
+    {
+      "home": "Atlético Junior",
+      "away": "Tela F.C.",
+      "stadium": "Morazán",
+      "date": "March 25, 7:00 PM"
+    }
+  ]
+}

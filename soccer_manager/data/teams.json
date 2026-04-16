@@ -1,0 +1,234 @@
+{
+  "teams": {
+    "Real España": {
+      "league": "First Division",
+      "group": null,
+      "wiki": "https://es.wikipedia.org/wiki/Real_Club_Deportivo_España"
+    },
+    "Motagua": {
+      "league": "First Division",
+      "group": null,
+      "wiki": "https://es.wikipedia.org/wiki/F%C3%BAtbol_Club_Motagua"
+    },
+    "Olimpia": {
+      "league": "First Division",
+      "group": null,
+      "wiki": "https://es.wikipedia.org/wiki/Club_Olimpia_Deportivo"
+    },
+    "Victoria": {
+      "league": "First Division",
+      "group": null,
+      "wiki": "https://es.wikipedia.org/wiki/Club_Deportivo_Victoria"
+    },
+    "Olancho F.C.": {
+      "league": "First Division",
+      "group": null,
+      "wiki": "https://es.wikipedia.org/wiki/Olancho_F%C3%BAtbol_Club"
+    },
+    "Marat\u00f3n": {
+      "league": "First Division",
+      "group": null,
+      "wiki": "https://es.wikipedia.org/wiki/Club_Deportivo_Marath%C3%B3n"
+    },
+    "Platense": {
+      "league": "First Division",
+      "group": null,
+      "wiki": "https://en.wikipedia.org/wiki/Platense_F.C."
+    },
+    "Club Deportivo Choloma": {
+      "league": "First Division",
+      "group": null,
+      "wiki": "https://es.wikipedia.org/wiki/Club_Deportivo_Choloma"
+    },
+    "Juticalpa": {
+      "league": "First Division",
+      "group": null,
+      "wiki": "https://es.wikipedia.org/wiki/Juticalpa_F%C3%BAtbol_Club"
+    },
+    "Lobos UPNFM": {
+      "league": "First Division",
+      "group": null,
+      "wiki": "https://en.wikipedia.org/wiki/Lobos_UPNFM"
+    },
+    "Club Deportivo G\u00e9nesis Polic\u00eda Nacional": {
+      "league": "First Division",
+      "group": null,
+      "wiki": "https://es.wikipedia.org/wiki/Club_Deportivo_G%C3%A9nesis"
+    },
+    "Boca Juniors": {
+      "league": "Ascenso",
+      "group": "Group A",
+      "wiki": null
+    },
+    "Vida": {
+      "league": "Ascenso",
+      "group": "Group A",
+      "wiki": "https://es.wikipedia.org/wiki/Club_Deportivo_y_Social_Vida"
+    },
+    "Real Sociedad": {
+      "league": "Ascenso",
+      "group": "Group A",
+      "wiki": "https://es.wikipedia.org/wiki/Club_Deportivo_Real_Sociedad"
+    },
+    "Roma F.C.": {
+      "league": "Ascenso",
+      "group": "Group A",
+      "wiki": null
+    },
+    "Honduras Progreso": {
+      "league": "Ascenso",
+      "group": "Group B",
+      "wiki": "https://es.wikipedia.org/wiki/Club_Deportivo_Honduras_Progreso"
+    },
+    "Atl\u00e9tico Junior": {
+      "league": "Ascenso",
+      "group": "Group B",
+      "wiki": null
+    },
+    "Tela F.C.": {
+      "league": "Ascenso",
+      "group": "Group B",
+      "wiki": null
+    },
+    "F.C. Santa Rosa": {
+      "league": "Ascenso",
+      "group": "Group B",
+      "wiki": null
+    },
+    "Oro Verde F.C.": {
+      "league": "Ascenso",
+      "group": "Group B",
+      "wiki": null
+    },
+    "Estrella F.C.": {
+      "league": "Ascenso",
+      "group": "Group B",
+      "wiki": null
+    },
+    "Parrillas One": {
+      "league": "Ascenso",
+      "group": "Group C",
+      "wiki": "https://es.wikipedia.org/wiki/Club_Deportivo_Parrillas_One"
+    },
+    "CD Choloma": {
+      "league": "Ascenso",
+      "group": "Group C",
+      "wiki": null
+    },
+    "Leones HT6": {
+      "league": "Ascenso",
+      "group": "Group C",
+      "wiki": null
+    },
+    "C.D. Brasilia": {
+      "league": "Ascenso",
+      "group": "Group C",
+      "wiki": null
+    },
+    "Pumas F.C.": {
+      "league": "Ascenso",
+      "group": "Group C",
+      "wiki": null
+    },
+    "Lone F.C.": {
+      "league": "Ascenso",
+      "group": "Group C",
+      "wiki": null
+    },
+    "San Juan Hurac\u00e1n": {
+      "league": "Ascenso",
+      "group": "Group D",
+      "wiki": null
+    },
+    "Olimpia Occidental": {
+      "league": "Ascenso",
+      "group": "Group D",
+      "wiki": null
+    },
+    "Santo Domingo Savio": {
+      "league": "Ascenso",
+      "group": "Group D",
+      "wiki": null
+    },
+    "Cuervos": {
+      "league": "Ascenso",
+      "group": "Group D",
+      "wiki": null
+    },
+    "San Juan Gualjoco": {
+      "league": "Ascenso",
+      "group": "Group D",
+      "wiki": null
+    },
+    "Real Juventud": {
+      "league": "Ascenso",
+      "group": "Group D",
+      "wiki": null
+    },
+    "Atl\u00e9tico Independiente": {
+      "league": "Ascenso",
+      "group": "Group E",
+      "wiki": null
+    },
+    "Real Tegus": {
+      "league": "Ascenso",
+      "group": "Group E",
+      "wiki": null
+    },
+    "AFFI Academia": {
+      "league": "Ascenso",
+      "group": "Group E",
+      "wiki": null
+    },
+    "CD Pirata": {
+      "league": "Ascenso",
+      "group": "Group E",
+      "wiki": null
+    },
+    "FAS": {
+      "league": "Ascenso",
+      "group": "Group E",
+      "wiki": null
+    },
+    "Inter": {
+      "league": "Ascenso",
+      "group": "Group E",
+      "wiki": null
+    },
+    "Polic\u00eda Nacional": {
+      "league": "Ascenso",
+      "group": "Group E",
+      "wiki": null
+    },
+    "Hondupino": {
+      "league": "Ascenso",
+      "group": "Group F",
+      "wiki": null
+    },
+    "Estrella Roja": {
+      "league": "Ascenso",
+      "group": "Group F",
+      "wiki": null
+    },
+    "Gimn\u00e1stico": {
+      "league": "Ascenso",
+      "group": "Group F",
+      "wiki": null
+    },
+    "Arsenal SAO": {
+      "league": "Ascenso",
+      "group": "Group F",
+      "wiki": null
+    },
+    "San Rafael": {
+      "league": "Ascenso",
+      "group": "Group F",
+      "wiki": null
+    },
+    "Meluca F.C.": {
+      "league": "Ascenso",
+      "group": "Group F",
+      "wiki": null
+    }
+  }
+}
